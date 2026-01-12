@@ -8,8 +8,8 @@ Original file is located at
 """
 
 import os
-os.environ["TAVILY_API_KEY"] = "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"
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["TAVILY_API_KEY"] = "tvly................................"
+os.environ["GROQ_API_KEY"] = "gsk_IU..................................."
 
 
 from langchain.chat_models import init_chat_model
